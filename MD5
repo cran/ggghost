@@ -1,10 +1,10 @@
-1d75d4e92821cd686ac5ee61048d5cda *DESCRIPTION
+6846239801b8e0beb368df550710d4ae *DESCRIPTION
 0e9661ea4e5127371c31f18cc92e105d *NAMESPACE
-e5fa5dfa41e3c91f58b7e8d28ebf3330 *NEWS.md
+07a66f60576d0a91a313eea569be4226 *NEWS.md
 e8646a96cd7dcfd0e5baeaed9fdceaf1 *R/ggghost-package.R
-9ab76f786a604a440aceeaf2a0617cf0 *R/ghost.R
+4125f95f7483d9622e627fbf717b31d4 *R/ghost.R
 40d14222d446ab20a5620b79ed7ff547 *R/zzz.R
-0064f447b003de3ef1bc3410efe30b65 *README.md
+674bda94b34c326266e4b5ae8f43c0fa *README.md
 9d7bf5298fd28ce7ea0a13da90c4046f *man/ggghost.Rd
 95d3340c615564dc19d6dac87ae46e5b *man/grapes-g-less-than-grapes.Rd
 ad542cd61fde32ca998d874fb86aca88 *man/identify_data.Rd
@@ -19,9 +19,9 @@ e6a9fdb246411a3b50daef0853a22f7f *man/subset.ggghost.Rd
 5c231761b7a096202dec2183ee1f7018 *man/supp_data-set.Rd
 b11d145bc0b2173f4c4f4d5b13659487 *man/supp_data.Rd
 742313eae0e4ab92e9aa0d95a323e748 *tests/testthat.R
-9b8c716d1990d28c8b17a4ee43d6a335 *tests/testthat/Rplots.pdf
+ac6e82de1224c387291dda628a62773e *tests/testthat/Rplots.pdf
 2ebbc6603300e90abc74a01ffb4fd86f *tests/testthat/test_Ops.R
 4d6272cbb733a1bf05c457f60dfa0a07 *tests/testthat/test_construct.R
-ee09299eb89a3eff95c36ccab294d8dc *tests/testthat/test_data.R
+5fa29e61c13878f09e4b152de5b4769a *tests/testthat/test_data.R
 fb89ec3cd3ea847c29d89d8cb1264426 *tests/testthat/test_gif.R
 7d281c5f8c8cca4149f410dcc4f309df *tests/testthat/test_methods.R
