@@ -11,9 +11,8 @@ supp_data(x)
 }
 \value{
 A list with two elements: the name of the supplementary data, and the
-  supplementary data itself
+supplementary data itself
 }
 \description{
 Inspect the supplementary data attached to a ggghost object
 }
-
